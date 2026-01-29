@@ -2,7 +2,6 @@
 
 <div align="center">
 <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3Dauto%26height%3D200%26section%3Dheader%26text%3DHello,%2520I%27m%2520devknight07%26fontSize%3D50%26animation%3DfadeIn" width="100%" />
-
 </div>
 
 💫 About Me
@@ -73,12 +72,12 @@ I am a passionate Full-Stack Developer and Tech Enthusiast who loves turning com
 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github.com/devknight07/devknight07/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://www.google.com/search?q=https://github.com/devknight07/devknight07/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 📂 Featured Projects
 
-🌟 Project One: [SmartDash]
+🌟 Project One: SmartDash
 
 An AI-powered dashboard that aggregates your tasks and optimizes your workflow using machine learning.
 
@@ -86,7 +85,7 @@ Tech Stack: Next.js, OpenAI API, PostgreSQL, Tailwind.
 
 Live Demo | Source Code
 
-🌟 Project Two: [CodeFlow]
+🌟 Project Two: CodeFlow
 
 A real-time collaborative code editor with built-in video conferencing and pair-programming features.
 
