@@ -1,84 +1,79 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devknight07/devknight07/main/assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devknight07/devknight07/main/assets/banner-light.png">
-  <img alt="Profile Banner" src="https://raw.githubusercontent.com/devknight07/devknight07/main/assets/banner-light.png">
-</picture>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e293b&height=180&section=header&text=Rohit%20Raut&fontSize=40&fontColor=ffffff&desc=Web%20Developer%20%7C%20WordPress%20Engineer%20%7C%20App%20Developer&descSize=16&descAlignY=65">
-</p>
+🚀 Welcome to my Digital Playground!
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3Dauto%26height%3D200%26section%3Dheader%26text%3DHello,%2520I%27m%2520devknight07%26fontSize%3D50%26animation%3DfadeIn" width="100%" />
+</div>
+
+💫 About Me
+
+I am a passionate Full-Stack Developer and Tech Enthusiast who loves turning complex problems into elegant, pixel-perfect code. When I'm not debugging or optimizing performance, you'll find me exploring new frameworks or contributing to open-source projects.
+
+🔭 Currently working on: An AI-powered productivity dashboard.
+
+🌱 Learning: Advanced Rust and Distributed Systems.
+
+👯 Looking to collaborate on: Open-source Web3 or Creative Coding projects.
+
+💬 Ask me about: React, Node.js, and why clean code matters.
+
+⚡ Fun Fact: I can explain the 'this' keyword in JavaScript without crying (mostly).
+
+🛠️ My Tech Toolbox
+
+🌐 Frontend & Design
+
+⚙️ Backend & Database
+
+📊 My GitHub Stats
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddevknight07%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="devknight07's Stats" />
 
 
-<h1 align="center">Rohit Raut</h1>
-<p align="center">Web Developer • WordPress Plugin Engineer • Application Developer</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=devknight07&label=Profile%20Views&color=0e75b6&style=flat">
-</p>
 
----
 
-## Professional Summary
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Ddevknight07%26theme%3Dtokyonight" alt="devknight07's Streak" />
+</div>
 
-Full-stack developer delivering performance-driven WordPress systems, scalable web apps, automation platforms, and clean UI architecture.
+📈 Top Languages
 
----
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddevknight07%26layout%3Dcompact%26theme%3Dtokyonight" alt="Top Languages" />
+</div>
 
-## Live Portfolio
+📂 Featured Projects
 
-🌐 **https://devknight07.github.io**
+🌟 Project One: [SmartDash]
 
-(Hosted free via GitHub Pages — portfolio template below)
+An AI-powered dashboard that aggregates your tasks and optimizes your workflow.
 
----
+Live Demo | Source Code
 
-## Featured Work (Showcase)
+🌟 Project Two: [CodeFlow]
 
-### 🚀 MinifyMax
-WordPress plugin focused on asset optimization & performance acceleration.
+A real-time collaborative code editor with built-in video conferencing.
 
-### 🎯 Lucky Spin Game
-Casino-style animated reveal game with sequential logic.
+Live Demo | Source Code
 
-### 🧩 Jigsaw Puzzle Platform
-Responsive puzzle system with scoring & animations.
+📬 Connect With Me
 
-### ☁ RR-Cloud
-Private cloud storage web solution.
+<div align="center">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/devknight07">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+<a href="https://www.google.com/search?q=https://twitter.com/devknight07">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-%25231DA1F2.svg%3Fstyle%3Dfor-the-badge%26logo%3DTwitter%26logoColor%3Dwhite" />
+</a>
+<a href="mailto:hello@devknight07.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
 
----
+🎵 On Repeat
 
-## Technology Stack
+"Code is like humor. When you have to explain it, it’s bad."
 
-HTML • CSS • JavaScript • React • Next.js • PHP • MySQL • WordPress • Git  
-
----
-
-## GitHub Metrics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=devknight07&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=devknight07&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devknight07&layout=compact&theme=tokyonight)
-
----
-
-## Resume (Auto-synced)
-
-📄 https://github.com/devknight07/resume  
-
-(Updates automatically from repo commits)
-
----
-
-## Contribution Activity
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=devknight07&theme=tokyo-night)
-
----
-
-## Contact
-
-GitHub → https://github.com/devknight07  
-
----
-
-⭐ Building scalable, optimized software.
+<div align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Ddevknight07%26color%3Dblueviolet" alt="Profile Views" />
+</div>
