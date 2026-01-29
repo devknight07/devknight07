@@ -3,6 +3,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devknight07/devknight07/main/assets/banner-light.png">
   <img alt="Profile Banner" src="https://raw.githubusercontent.com/devknight07/devknight07/main/assets/banner-light.png">
 </picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e293b&height=180&section=header&text=Rohit%20Raut&fontSize=40&fontColor=ffffff&desc=Web%20Developer%20%7C%20WordPress%20Engineer%20%7C%20App%20Developer&descSize=16&descAlignY=65">
+</p>
+
 
 <h1 align="center">Rohit Raut</h1>
 <p align="center">Web Developer • WordPress Plugin Engineer • Application Developer</p>
